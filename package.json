@@ -19,5 +19,5 @@
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
-  "repository": "https://github.com/TiagoUniverse/CRUD-API"
+  "repository": "https://github.com/TiagoUniverse/Crud-API-de-Filmes"
 }
